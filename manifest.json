@@ -1,0 +1,177 @@
+[
+ {
+  "category": "Cardiac and ECG Rhythms",
+  "folder": "01_Cardiac_and_ECG_Rhythms",
+  "title": "Cardiac and ECG Rhythms - Part 1",
+  "file": "cardiac-ecg-rhythms-01.docx",
+  "questions": 15
+ },
+ {
+  "category": "Cardiac and ECG Rhythms",
+  "folder": "01_Cardiac_and_ECG_Rhythms",
+  "title": "Cardiac and ECG Rhythms - Part 2",
+  "file": "cardiac-ecg-rhythms-02.docx",
+  "questions": 14
+ },
+ {
+  "category": "Surgical Instruments",
+  "folder": "02_Surgical_Instruments",
+  "title": "Surgical Instruments - Part 1",
+  "file": "surgical-instruments-01.docx",
+  "questions": 15
+ },
+ {
+  "category": "Surgical Instruments",
+  "folder": "02_Surgical_Instruments",
+  "title": "Surgical Instruments - Part 2",
+  "file": "surgical-instruments-02.docx",
+  "questions": 15
+ },
+ {
+  "category": "Airway Management",
+  "folder": "03_Airway_Management",
+  "title": "Airway Management - Part 1",
+  "file": "airway-management-01.docx",
+  "questions": 12
+ },
+ {
+  "category": "Airway Management",
+  "folder": "03_Airway_Management",
+  "title": "Airway Management - Part 2",
+  "file": "airway-management-02.docx",
+  "questions": 12
+ },
+ {
+  "category": "IV and Vascular Access",
+  "folder": "04_IV_and_Vascular_Access",
+  "title": "IV and Vascular Access",
+  "file": "iv-vascular-access.docx",
+  "questions": 18
+ },
+ {
+  "category": "Obstetrics and Gynecology",
+  "folder": "05_Obstetrics_and_Gynecology",
+  "title": "Obstetrics and Gynecology - Part 1",
+  "file": "obstetrics-gynecology-01.docx",
+  "questions": 18
+ },
+ {
+  "category": "Obstetrics and Gynecology",
+  "folder": "05_Obstetrics_and_Gynecology",
+  "title": "Obstetrics and Gynecology - Part 2",
+  "file": "obstetrics-gynecology-02.docx",
+  "questions": 18
+ },
+ {
+  "category": "Pediatrics and Neonatal",
+  "folder": "06_Pediatrics_and_Neonatal",
+  "title": "Pediatrics and Neonatal - Part 1",
+  "file": "pediatrics-neonatal-01.docx",
+  "questions": 20
+ },
+ {
+  "category": "Pediatrics and Neonatal",
+  "folder": "06_Pediatrics_and_Neonatal",
+  "title": "Pediatrics and Neonatal - Part 2",
+  "file": "pediatrics-neonatal-02.docx",
+  "questions": 20
+ },
+ {
+  "category": "Emergency Trauma and BLS",
+  "folder": "07_Emergency_Trauma_and_BLS",
+  "title": "Emergency Trauma and BLS",
+  "file": "emergency-trauma-bls.docx",
+  "questions": 7
+ },
+ {
+  "category": "Dialysis Renal and Urology",
+  "folder": "08_Dialysis_Renal_and_Urology",
+  "title": "Dialysis Renal and Urology",
+  "file": "dialysis-renal-urology.docx",
+  "questions": 10
+ },
+ {
+  "category": "Respiratory and Oxygen Therapy",
+  "folder": "09_Respiratory_and_Oxygen_Therapy",
+  "title": "Respiratory and Oxygen Therapy",
+  "file": "respiratory-oxygen-therapy.docx",
+  "questions": 18
+ },
+ {
+  "category": "Waste Management and BMW",
+  "folder": "10_Waste_Management_and_BMW",
+  "title": "Waste Management and BMW",
+  "file": "waste-management-bmw.docx",
+  "questions": 9
+ },
+ {
+  "category": "Imaging and Diagnostics",
+  "folder": "11_Imaging_and_Diagnostics",
+  "title": "Imaging and Diagnostics",
+  "file": "imaging-diagnostics.docx",
+  "questions": 8
+ },
+ {
+  "category": "Psychiatry and Neurology",
+  "folder": "12_Psychiatry_and_Neurology",
+  "title": "Psychiatry and Neurology",
+  "file": "psychiatry-neurology.docx",
+  "questions": 15
+ },
+ {
+  "category": "Pharmacology and Drugs",
+  "folder": "13_Pharmacology_and_Drugs",
+  "title": "Pharmacology and Drugs",
+  "file": "pharmacology-drugs.docx",
+  "questions": 17
+ },
+ {
+  "category": "Wound Care and Drains",
+  "folder": "14_Wound_Care_and_Drains",
+  "title": "Wound Care and Drains",
+  "file": "wound-care-drains.docx",
+  "questions": 7
+ },
+ {
+  "category": "Gastroenterology and Nutrition",
+  "folder": "15_Gastroenterology_and_Nutrition",
+  "title": "Gastroenterology and Nutrition",
+  "file": "gastroenterology-nutrition.docx",
+  "questions": 17
+ },
+ {
+  "category": "Orthopedics and Positioning",
+  "folder": "16_Orthopedics_and_Positioning",
+  "title": "Orthopedics and Positioning",
+  "file": "orthopedics-positioning.docx",
+  "questions": 13
+ },
+ {
+  "category": "Ophthalmology, ENT and Skin",
+  "folder": "17_Ophthalmology_and_ENT",
+  "title": "Ophthalmology, ENT and Skin",
+  "file": "ophthalmology-ent-skin.docx",
+  "questions": 7
+ },
+ {
+  "category": "Community Health Nursing",
+  "folder": "19_Community_Health_Nursing",
+  "title": "Community Health Nursing",
+  "file": "community-health-nursing.docx",
+  "questions": 5
+ },
+ {
+  "category": "General Medical Surgical",
+  "folder": "20_General_Medical_Surgical",
+  "title": "General Medical Surgical - Part 1",
+  "file": "general-medical-surgical-01.docx",
+  "questions": 16
+ },
+ {
+  "category": "General Medical Surgical",
+  "folder": "20_General_Medical_Surgical",
+  "title": "General Medical Surgical - Part 2",
+  "file": "general-medical-surgical-02.docx",
+  "questions": 16
+ }
+]
